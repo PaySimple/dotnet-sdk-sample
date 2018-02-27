@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paysimple-dotnet-sdk-sample", "paysimple-dotnet-sdk-sample\paysimple-dotnet-sdk-sample.csproj", "{00CBAE0B-2F2B-48DC-A255-75FFE27C5C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySimpleSdk", "..\PaySimpleSDK-github\src\PaySimpleSdk\PaySimpleSdk.csproj", "{4E324D76-00AC-4A62-ACEF-FD6619D4FCFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00CBAE0B-2F2B-48DC-A255-75FFE27C5C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CBAE0B-2F2B-48DC-A255-75FFE27C5C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CBAE0B-2F2B-48DC-A255-75FFE27C5C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CBAE0B-2F2B-48DC-A255-75FFE27C5C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E324D76-00AC-4A62-ACEF-FD6619D4FCFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E324D76-00AC-4A62-ACEF-FD6619D4FCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E324D76-00AC-4A62-ACEF-FD6619D4FCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E324D76-00AC-4A62-ACEF-FD6619D4FCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46C16D97-1465-4A06-A31A-CCB2B813E1A4}
+	EndGlobalSection
+EndGlobal
